@@ -17,8 +17,8 @@ Here are some highlights of the projects included in this repository:
   - Description: This project focuses on classifying different species of Iris flowers based on their sepal and petal dimensions. The objective is to implement machine learning algorithms to accurately predict the species of Iris flowers using the Iris dataset.
   - Technologies Used: Python, Pandas, Scikit-learn, Matplotlib.
 
-  -**Sales Media Prediction**:
-     -Description: This project involves predicting sales outcomes based on advertising expenditures across TV, Radio, and Newspaper. The goal is to develop a predictive model that quantifies the impact of each media channel on total sales.
+  - **Sales Media Prediction**:
+     - Description: This project involves predicting sales outcomes based on advertising expenditures across TV, Radio, and Newspaper. The goal is to develop a predictive model that quantifies the impact of each media channel on total sales.
 
      - Technologies Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib.
   
